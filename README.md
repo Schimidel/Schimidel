@@ -18,7 +18,7 @@ Tenho buscado aplicar o que aprendo de forma prática, com reprodutibilidade e c
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logo=linkedin&Color=white&logo"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Schimidel?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
