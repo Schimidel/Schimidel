@@ -13,6 +13,7 @@ Tenho buscado aplicar o que aprendo de forma prática, com reprodutibilidade e c
 <p align="left"> <a href="https://www.linkedin.com/in/gabriel-schimidel-1337a8255"> <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logo=linkedin&Color=white&logo" /> </a> <a href="https://github.com/Schimidel?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Schimidel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
 
 🚀 Projetos em destaque
+
 🌊 WavewatchIII_Machine_Learning — Pipeline de ML para correção de previsões de altura de onda (Projeto IARA), integrando dados do Wavewatch III, reanálise ERA5 e boias (PNBOIA). Testa XGBoost, LightGBM, Random Forest e LSTM para reduzir erros do modelo numérico em eventos extremos
 
 🧊 Notebooks_Artigo_AIA — Download e análise de dados sobre a Água Intermediária Antártica (AIA): formação, circulação e variabilidade
